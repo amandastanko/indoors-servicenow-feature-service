@@ -1,8 +1,8 @@
 {
   "servicenow": {
-    "url": "https://example.service-now.com",
-    "username": "",
-    "password": "",
+    "url": "https://dev228908.service-now.com",
+    "username": "aes.creator",
+    "password": "aC!zfRWxR%5E71",
     "cacheTimeToLiveSeconds": 10,
     "maxFeaturesToCache": 10000,
     "idField": null,
